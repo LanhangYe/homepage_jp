@@ -2,34 +2,33 @@
 layout: homepage
 ---
 
-## About Me
+## 私について
 
-  **Lanhang Ye** obtained doctoral degree in engineering from **Nagoya University** in 2019. His primary research concentrates on **_Envisioning Transport Systems Integrating Emerging Mobility Technologies_**. He focuses on developing microscopic traffic flow models that incorporate mobility technologies to simulate potential future scenarios, evaluating the potential impact of these technologies on future traffic systems, providing management recommendations for their better integration into the current traffic system, and exploring traffic flow theory in the era of Connected and Automated Vehicles. Currently, he is working as a researcher at the Institute of Materials and Systems for Sustainability at Nagoya University, Japan.
+2019年に**名古屋大学**で工学の博士号を取得した**Lanhang Ye**氏は、主に**_新興のモビリティ技術を統合した交通システムの展望_**に焦点を当てた研究を行っています。彼は、潜在的な将来のシナリオをシミュレートするためにモビリティ技術を取り入れた微視的な交通流モデルの開発に取り組んでおり、これらの技術が将来の交通システムに与える影響を評価し、現行の交通システムへのより良い統合のための管理推奨を提供し、つながった自動車と自動運転車の時代の交通流理論を探求しています。現在、彼は日本の名古屋大学未来材料・システム研究所で研究員として活動しています。
 
-## Research Interests
+## 研究テーマ
 
-- **Connected and Autonomous Vehicle** 
-- **Traffic Flow Modelling**
-- **Traffic Simulation**
-- **Sustainable Mobility**
+- **自動運転車** 
+- **交通流モデリング**
+- **交通シミュレーション**
+- **持続可能なモビリティ**
 
-## Academic Background
+## 履歴
 
-- Doctor of Engineering, **Nagoya University**, Japan, 2019
-- Master of Engineering, **Hebei University of Technology**, China, 2016
-- Bachelor of Engineering, **Shijiazhuang Tiedao University**, China, 2013
+- 1991年7月 中国浙江省蘭渓市にて生まれる
+- 2009年9月 石家荘鉄道大学交通工学専攻入学
+- 2013年7月 同大学卒業
+- 2013年9月 河北工業大学修士課程交通運輸工程専攻入学
+- 2016年1月 同大学院修士課程卒業
+- 2016年10月 名古屋大学大学院工学研究科博士後期課程社会基盤工学専攻入学
+- 2019年9月 同大学院博士後期課程卒業
+- 2020年1月~2022年12月 浙江師範大学交通運輸専攻講師
+- 担当講義：_高度道路交通システム_，_Matlab の基礎と応用_，_交通工学の英語_
+- 2023年3月~2023年3月 名古屋大学未来社会創造機構モビリティ社会研究所研究機関研究員
+- 2023年4月 名古屋大学未来材料・システム研究所研究機関研究員
 
-## Professional Experience
-
-- 2023.04~           Researcher at Institute of Materials and Systems for Sustainability, **Nagoya University**
-- 2023.03~2023.04    Researcher at Global Research Institute for Mobility, Nagoya University, Japan
-- 2020.01~2022.12     Lecturer at Department of Transportation, **Zhejiang Normal University**, China
-  -   Undergraduate courses: _Intelligent transportation system_,
-                          _Matlab Fundamentals and Applications_,
-                          _English in Traffic Engineering_
-
-## Publications
-**External sites**：[Web of Science](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D),  [Orcid](https://orcid.org/0000-0002-4821-1072),  [ResearchGate](https://www.researchgate.net/profile/Lanhang-Ye). 
+## 研究業績
+**引用状況については右の外部サイトをご覧下さい**：[Web of Science](https://www.webofscience.com/wos/author/record/827842?state=%7B%7D),  [Orcid](https://orcid.org/0000-0002-4821-1072),  [ResearchGate](https://www.researchgate.net/profile/Lanhang-Ye). 
 
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**
   <br>
@@ -67,7 +66,7 @@ layout: homepage
   <br>
   [[PDF](https://www.mdpi.com/2076-3417/12/13/6483)]
   
-## Presentations
+## 報告等
 - **Modeling Connected and Autonomous Vehicles in Heterogeneous Traffic Flow**  Traffic & Granular Flow, Washington, USA, 2017.
 - **Evaluation of Safety with Mixed Traffic of Connected Autonomous Vehicles and Conventional Vehicles** 57th Infrastructure Planning Conference, Tokyo, Japan, 2018.
 - **Heterogeneous Traffic flow dynamics under Various Penetration Rates of Connected and Autonomous vehicles** 21st IEEE International Conference on Intelligent Transportation Systems, Hawaii, USA, 2018.
